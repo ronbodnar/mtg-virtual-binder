@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<cards>
+  <card>
+    <name>Island</name>
+    <cost>N/A</cost>
+    <color>N/A</color>
+    <quantity>6</quantity>
+    <edition>
+      <set>Zendikar</set>
+      <setID>ZEN</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/201963.jpg</image>
+      <rarity>basic</rarity>
+      <prices>
+        <low>0</low>
+        <median>212</median>
+        <high>0</high>
+      </prices>
+    </edition>
+  </card>
+</cards>

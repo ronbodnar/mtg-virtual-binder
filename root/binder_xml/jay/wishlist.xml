@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<cards>
+  <card>
+    <name>Avacyn's Pilgrim</name>
+    <cost>(G)</cost>
+    <color>Green</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/243212.jpg</image>
+      <rarity>common</rarity>
+      <prices>
+        <low>5</low>
+        <median>21</median>
+        <high>105</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Colossus of Akros</name>
+    <cost>(8)</cost>
+    <color>N/A</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373555.jpg</image>
+      <rarity>rare</rarity>
+      <prices>
+        <low>15</low>
+        <median>49</median>
+        <high>174</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Chief of the Edge</name>
+    <cost>(W)(B)</cost>
+    <color>Gold</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386504.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>22</median>
+        <high>110</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Chief of the Scale</name>
+    <cost>(W)(B)</cost>
+    <color>Gold</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386505.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>20</median>
+        <high>100</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Brave the Sands</name>
+    <cost>(1)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386497.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>19</median>
+        <high>95</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ajani, Mentor of Heroes</name>
+    <cost>(3)(G)(W)</cost>
+    <color>Gold</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380367.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>1599</low>
+        <median>1850</median>
+        <high>2900</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Altar of the Brood</name>
+    <cost>(1)</cost>
+    <color>N/A</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386475.jpg</image>
+      <rarity>rare</rarity>
+      <prices>
+        <low>17</low>
+        <median>84</median>
+        <high>300</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ajani Steadfast</name>
+    <cost>(3)(W)</cost>
+    <color>White</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383180.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>788</low>
+        <median>1187</median>
+        <high>1995</high>
+      </prices>
+    </edition>
+  </card>
+</cards>

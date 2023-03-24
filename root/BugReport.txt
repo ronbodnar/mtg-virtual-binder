@@ -1,0 +1,40 @@
+====
+BUGS
+====
+
+==========
+FIXED BUGS
+==========
+1) Fixed a visual bug where prices weren't showing proper decimals for USD format
+2) Removed foil cards using data from the price API (currently set to TBD until functionality is planned)
+3) Land cards are not supported (search for Polluted Delta)
+4) When moving cards to a different binder, the card info minus quantity is missing, line 71 of functions.php
+5) I removed "Aegis Angel" From rare and it added a blank text like it alerady had at the very top, so now there's 4. 
+
+=========
+CHANGELOG
+=========
+1) Added card rarity to all binders, visible only to the owner of the binders
+2) Add / remove tabs is now functioning
+3) Added a card count to each binder tab
+4) Added table sorting support for the search table and all binder tables
+
+============
+CURRENT TODO
+============
+1) Move cards between binders from the binders themselves
+
+===========
+SUGGESTIONS
+===========
+1) Remain on the current binder tab when updating
+2) Total price of all cards in all binders
+3) Manual price updates
+4) The ability to color-code binders [will be done in admin UI]
+
+==============
+FUTURE CONTENT
+==============
+1) Simplistic Admin UI for easier customization
+2) The ability for users to rename their binders
+3) Contact form for buyers looking to contact binder owners

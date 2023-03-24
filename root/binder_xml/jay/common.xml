@@ -1,0 +1,3777 @@
+<?xml version="1.0"?>
+<cards>
+  <card>
+    <name>Sultai Charm</name>
+    <cost>(B)(G)(U)</cost>
+    <color>Gold</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386676.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>19</low>
+        <median>52</median>
+        <high>200</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Sultai Soothsayer</name>
+    <cost>(2)(B)(G)(U)</cost>
+    <color>Gold</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386679.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Icefeather Aven</name>
+    <cost>(G)(U)</cost>
+    <color>Gold</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386562.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>19</median>
+        <high>95</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Winterflame</name>
+    <cost>(1)(U)(R)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386727.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>20</median>
+        <high>100</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Secret Plans</name>
+    <cost>(G)(U)</cost>
+    <color>Gold</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386657.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Pharika's Mender</name>
+    <cost>(3)(B)(G)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373569.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Jeskai Charm</name>
+    <cost>(U)(R)(W)</cost>
+    <color>Gold</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386573.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>30</low>
+        <median>64</median>
+        <high>300</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Master the Way</name>
+    <cost>(3)(U)(R)</cost>
+    <color>Gold</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386601.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ride Down</name>
+    <cost>(R)(W)</cost>
+    <color>Gold</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386636.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>20</median>
+        <high>100</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Dragon's Eye Savants</name>
+    <cost>(1)(U)</cost>
+    <color>Blue</color>
+    <quantity>8</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386524.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Waterwhirl</name>
+    <cost>(4)(U)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386719.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Jeskai Elder</name>
+    <cost>(1)(U)</cost>
+    <color>Blue</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386574.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Blinding Spray</name>
+    <cost>(4)(U)</cost>
+    <color>Blue</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386490.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Quiet Contemplation</name>
+    <cost>(2)(U)</cost>
+    <color>Blue</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386629.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Scion of Glaciers</name>
+    <cost>(2)(U)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386654.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Mistfire Weaver</name>
+    <cost>(3)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386605.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Raiders' Spoils</name>
+    <cost>(3)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386630.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ruthless Ripper</name>
+    <cost>(B)</cost>
+    <color>Black</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386643.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>21</median>
+        <high>105</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Murderous Cut</name>
+    <cost>(4)(B)</cost>
+    <color>Black</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386613.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>16</low>
+        <median>80</median>
+        <high>213</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Swarm of Bloodflies</name>
+    <cost>(4)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386687.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>14</median>
+        <high>70</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Mer-Ek Nightblade</name>
+    <cost>(3)(B)</cost>
+    <color>Black</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386603.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>19</median>
+        <high>95</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Despise</name>
+    <cost>(B)</cost>
+    <color>Black</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386517.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>10</low>
+        <median>36</median>
+        <high>180</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Gurmag Swiftwing</name>
+    <cost>(1)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386549.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Mardu Heart-Piercer</name>
+    <cost>(3)(R)</cost>
+    <color>Red</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386595.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>13</median>
+        <high>65</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Dragon Grip</name>
+    <cost>(2)(R)</cost>
+    <color>Red</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386522.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Arc Lightning</name>
+    <cost>(2)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386478.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>22</median>
+        <high>110</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Goblinslide</name>
+    <cost>(2)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386547.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>21</median>
+        <high>105</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Horde Ambusher</name>
+    <cost>(1)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386559.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Burn Away</name>
+    <cost>(4)(R)</cost>
+    <color>Red</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386500.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>War-Name Aspirant</name>
+    <cost>(1)(R)</cost>
+    <color>Red</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386717.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>6</low>
+        <median>30</median>
+        <high>133</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Roar of Challenge</name>
+    <cost>(2)(G)</cost>
+    <color>Green</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386639.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Sunblade Elf</name>
+    <cost>(G)</cost>
+    <color>Green</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383406.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>7</low>
+        <median>29</median>
+        <high>123</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Sultai Flayer</name>
+    <cost>(3)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386677.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>14</median>
+        <high>70</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Become Immense</name>
+    <cost>(5)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386487.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Heir of the Wilds</name>
+    <cost>(1)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386552.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>19</median>
+        <high>95</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Seek the Horizon</name>
+    <cost>(3)(G)</cost>
+    <color>Green</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386659.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Temur Charger</name>
+    <cost>(1)(G)</cost>
+    <color>Green</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386694.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Abzan Falconer</name>
+    <cost>(2)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386468.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>19</median>
+        <high>95</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Dazzling Ramparts</name>
+    <cost>(4)(W)</cost>
+    <color>White</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386511.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Timely Hordemate</name>
+    <cost>(3)(W)</cost>
+    <color>White</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386699.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Suspension Field</name>
+    <cost>(1)(W)</cost>
+    <color>White</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386682.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>9</low>
+        <median>27</median>
+        <high>123</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Venerable Lammasu</name>
+    <cost>(6)(W)</cost>
+    <color>White</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386713.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Dead Drop</name>
+    <cost>(9)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386512.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Grim Haruspex</name>
+    <cost>(2)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386548.jpg</image>
+      <rarity>rare</rarity>
+      <prices>
+        <low>15</low>
+        <median>41</median>
+        <high>200</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Gravedigger</name>
+    <cost>(3)(B)</cost>
+    <color>Black</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383260.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>14</median>
+        <high>70</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Seeker of the Way</name>
+    <cost>(1)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386660.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>10</low>
+        <median>50</median>
+        <high>183</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Mardu Charm</name>
+    <cost>(R)(W)(B)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386593.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>15</low>
+        <median>53</median>
+        <high>159</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Heart-Piercer Bow</name>
+    <cost>(2)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386551.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Briber's Purse</name>
+    <cost>(X)</cost>
+    <color>N/A</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386498.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Tomb of the Spirit Dragon</name>
+    <cost>N/A</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386700.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>22</median>
+        <high>110</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Encroaching Wastes</name>
+    <cost>N/A</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2014 Core Set</set>
+      <setID>M14</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/370769.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>26</median>
+        <high>114</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Nomad Outpost</name>
+    <cost>N/A</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386619.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>15</low>
+        <median>50</median>
+        <high>200</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Opulent Palace</name>
+    <cost>N/A</cost>
+    <color>N/A</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386620.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>15</low>
+        <median>51</median>
+        <high>200</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Mystic Monastery</name>
+    <cost>N/A</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386614.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>20</low>
+        <median>53</median>
+        <high>200</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Kragma Warcaller</name>
+    <cost>(3)(B)(R)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373710.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>22</median>
+        <high>110</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Akroan Hoplite</name>
+    <cost>(R)(W)</cost>
+    <color>Gold</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373590.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Destructive Revelry</name>
+    <cost>(R)(G)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373678.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>21</median>
+        <high>105</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ragemonger</name>
+    <cost>(1)(B)(R)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378525.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>10</low>
+        <median>34</median>
+        <high>137</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Skarrg Guildmage</name>
+    <cost>(R)(G)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Gatecrash</set>
+      <setID>GTC</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/366350.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Battlewise Hoplite</name>
+    <cost>(W)(U)</cost>
+    <color>Gold</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373612.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Krasis Incubation</name>
+    <cost>(2)(G)(U)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Dragon's Maze</set>
+      <setID>DGM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/369052.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ephara's Enlightenment</name>
+    <cost>(1)(W)(U)</cost>
+    <color>Gold</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378518.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>19</median>
+        <high>95</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Spellheart Chimera</name>
+    <cost>(1)(U)(R)</cost>
+    <color>Gold</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373554.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>7</low>
+        <median>24</median>
+        <high>120</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Horizon Chimera</name>
+    <cost>(2)(G)(U)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373738.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Species Gorger</name>
+    <cost>(3)(G)(U)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Dragon's Maze</set>
+      <setID>DGM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/369015.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Shipwreck Singer</name>
+    <cost>(U)(B)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373702.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>14</median>
+        <high>70</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Korozda Gorgon</name>
+    <cost>(3)(B)(G)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Dragon's Maze</set>
+      <setID>DGM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/369064.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Nyx Weaver</name>
+    <cost>(1)(B)(G)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380462.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>10</low>
+        <median>50</median>
+        <high>176</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Trostani's Summoner</name>
+    <cost>(5)(G)(W)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Dragon's Maze</set>
+      <setID>DGM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/369072.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>19</median>
+        <high>95</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Scab-Clan Giant</name>
+    <cost>(4)(R)(G)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Dragon's Maze</set>
+      <setID>DGM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/369005.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Forlorn Pseudamma</name>
+    <cost>(3)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378443.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ordeal of Erebos</name>
+    <cost>(1)(B)</cost>
+    <color>Black</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373646.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Xathrid Slyblade</name>
+    <cost>(2)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383440.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Erebos's Emissary</name>
+    <cost>(3)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373745.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Drown in Sorrow</name>
+    <cost>(1)(B)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378437.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>20</low>
+        <median>91</median>
+        <high>244</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Sanguimancy</name>
+    <cost>(4)(B)</cost>
+    <color>Black</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378453.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Spiteful Returned</name>
+    <cost>(1)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378456.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>9</low>
+        <median>23</median>
+        <high>115</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Wakedancer</name>
+    <cost>(2)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Dark Ascension</set>
+      <setID>DKA</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/262836.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Dark Betrayal</name>
+    <cost>(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373504.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Sengir Vampire</name>
+    <cost>(3)(B)(B)</cost>
+    <color>Black</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383170.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>26</low>
+        <median>48</median>
+        <high>148</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Village Cannibals</name>
+    <cost>(2)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/222903.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Archetype of Finality</name>
+    <cost>(4)(B)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378430.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>19</median>
+        <high>95</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Squelching Leeches</name>
+    <cost>(2)(B)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380507.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Mogis's Marauder</name>
+    <cost>(2)(B)</cost>
+    <color>Black</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373565.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Wall of Limbs</name>
+    <cost>(2)(B)</cost>
+    <color>Black</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383433.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Warriors' Lesson</name>
+    <cost>(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373613.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Raised by Wolves</name>
+    <cost>(3)(G)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378507.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Nessian Game Warden</name>
+    <cost>(3)(G)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380459.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Viridian Corrupter</name>
+    <cost>(1)(G)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Mirrodin Besieged</set>
+      <setID>MBS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/213772.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>20</median>
+        <high>100</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Artisan's Sorrow</name>
+    <cost>(3)(G)</cost>
+    <color>Green</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373506.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Lead the Stampede</name>
+    <cost>(2)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Mirrodin Besieged</set>
+      <setID>MBS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/213739.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>19</median>
+        <high>95</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Full Moon's Rise</name>
+    <cost>(1)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/241981.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>10</low>
+        <median>29</median>
+        <high>131</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Autumn's Veil</name>
+    <cost>(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2012</set>
+      <setID>M12</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/241990.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>19</median>
+        <high>95</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Down</name>
+    <cost>(3)(B)</cost>
+    <color>Black</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Dragon's Maze</set>
+      <setID>DGM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/369089.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Graverobber Spider</name>
+    <cost>(3)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378494.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Garruk's Packleader</name>
+    <cost>(4)(G)</cost>
+    <color>Green</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383165.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>23</low>
+        <median>51</median>
+        <high>198</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Centaur Battlemaster</name>
+    <cost>(3)(G)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373594.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Peregrination</name>
+    <cost>(3)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378504.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>21</median>
+        <high>105</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Hollowhenge Scavenger</name>
+    <cost>(3)(G)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/226883.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Melira's Keepers</name>
+    <cost>(4)(G)</cost>
+    <color>Green</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Mirrodin Besieged</set>
+      <setID>MBS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/213796.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Alive</name>
+    <cost>(3)(G)</cost>
+    <color>Green</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Dragon's Maze</set>
+      <setID>DGM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/369041.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Back to Nature</name>
+    <cost>(1)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383187.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>6</low>
+        <median>21</median>
+        <high>105</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Roaring Primadox</name>
+    <cost>(3)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383364.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ancient Silverback</name>
+    <cost>(4)(G)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383184.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ordeal of Nylea</name>
+    <cost>(1)(G)</cost>
+    <color>Green</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373553.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>19</median>
+        <high>95</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Oracle's Insight</name>
+    <cost>(3)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378419.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Eternity Snare</name>
+    <cost>(5)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378409.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Memory's Journey</name>
+    <cost>(1)(U)</cost>
+    <color>Blue</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/254134.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Murder of Crows</name>
+    <cost>(3)(U)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/230616.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Triton Fortune Hunter</name>
+    <cost>(2)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373531.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Air Servant</name>
+    <cost>(4)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2014 Core Set</set>
+      <setID>M14</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/370688.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Kapsho Kitefins</name>
+    <cost>(4)(U)(U)</cost>
+    <color>Blue</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383291.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Jorubai Murk Lurker</name>
+    <cost>(2)(U)</cost>
+    <color>Blue</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383288.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Horizon Scholar</name>
+    <cost>(5)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373628.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Into the Void</name>
+    <cost>(3)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383278.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Jace's Ingenuity</name>
+    <cost>(3)(U)(U)</cost>
+    <color>Blue</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383286.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ensoul Artifact</name>
+    <cost>(1)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383232.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>50</low>
+        <median>166</median>
+        <high>298</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ordeal of Thassa</name>
+    <cost>(1)(U)</cost>
+    <color>Blue</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373696.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>19</median>
+        <high>95</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Spiraling Duelist</name>
+    <cost>(2)(R)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Mirrodin Besieged</set>
+      <setID>MBS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/222859.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Scourge of Geier Reach</name>
+    <cost>(3)(R)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/227077.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Stormcaller of Keranos</name>
+    <cost>(2)(R)</cost>
+    <color>Red</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378484.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Rollick of Abandon</name>
+    <cost>(3)(R)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380488.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Peak Eruption</name>
+    <cost>(2)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373507.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Thunder Brute</name>
+    <cost>(4)(R)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378485.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ripscale Predator</name>
+    <cost>(4)(R)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Gatecrash</set>
+      <setID>GTC</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/366362.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Stoneshock Giant</name>
+    <cost>(3)(R)(R)</cost>
+    <color>Red</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373687.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Into the Maw of Hell</name>
+    <cost>(4)(R)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/220035.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Shrapnel Blast</name>
+    <cost>(1)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383380.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>16</low>
+        <median>33</median>
+        <high>123</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Shattered Perception</name>
+    <cost>(2)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Dark Ascension</set>
+      <setID>DKA</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/254058.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Flames of the Firebrand</name>
+    <cost>(2)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2014 Core Set</set>
+      <setID>M14</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/370824.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Desperate Ravings</name>
+    <cost>(1)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/237359.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Flamespeaker Adept</name>
+    <cost>(2)(R)</cost>
+    <color>Red</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373705.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Spite of Mogis</name>
+    <cost>(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380505.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Mogis's Warhound</name>
+    <cost>(1)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380456.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Kuldotha Flamefiend</name>
+    <cost>(4)(R)(R)</cost>
+    <color>Red</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Mirrodin Besieged</set>
+      <setID>MBS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/213810.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Boggart Shenanigans</name>
+    <cost>(2)(R)</cost>
+    <color>Red</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Duel Decks: Elves vs. Goblins</set>
+      <setID>EVG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/157915.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>20</low>
+        <median>38</median>
+        <high>135</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Paragon of Fierce Defiance</name>
+    <cost>(3)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383337.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Fleshpulper Giant</name>
+    <cost>(5)(R)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2014 Core Set</set>
+      <setID>M14</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/370741.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Might Makes Right</name>
+    <cost>(5)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383310.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Fanatic of Mogis</name>
+    <cost>(3)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373511.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>9</low>
+        <median>33</median>
+        <high>114</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Paragon of New Dawns</name>
+    <cost>(3)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383339.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>22</median>
+        <high>110</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Decorated Griffin</name>
+    <cost>(4)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373577.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Dauntless River Marshal</name>
+    <cost>(1)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383223.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Evangel of Heliod</name>
+    <cost>(4)(W)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373641.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Serra Angel</name>
+    <cost>(3)(W)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383171.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>25</low>
+        <median>54</median>
+        <high>248</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Dawn to Dusk</name>
+    <cost>(2)(W)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378378.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Skyspear Cavalry</name>
+    <cost>(3)(W)(W)</cost>
+    <color>White</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380501.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Gift of Orzhova</name>
+    <cost>(1)(W/B)(W/B)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Gatecrash</set>
+      <setID>GTC</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/366339.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>8</low>
+        <median>25</median>
+        <high>125</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Gallows Warden</name>
+    <cost>(4)(W)</cost>
+    <color>White</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/233248.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Vanquish the Foul</name>
+    <cost>(5)(W)</cost>
+    <color>White</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373640.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Glimpse the Sun God</name>
+    <cost>(X)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378385.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Akroan Phalanx</name>
+    <cost>(3)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378374.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ajani's Pridemate</name>
+    <cost>(1)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383181.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>15</low>
+        <median>40</median>
+        <high>123</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Sunbond</name>
+    <cost>(3)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378400.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>25</median>
+        <high>114</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ordeal of Heliod</name>
+    <cost>(1)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373619.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>20</median>
+        <high>100</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Flamecast Wheel</name>
+    <cost>(1)</cost>
+    <color>N/A</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373514.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Gold-Forged Sentinel</name>
+    <cost>(6)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380429.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Piston Sledge</name>
+    <cost>(3)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Mirrodin Besieged</set>
+      <setID>MBS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/213742.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Anvilwrought Raptor</name>
+    <cost>(4)</cost>
+    <color>N/A</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373677.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Gorgon's Head</name>
+    <cost>(1)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378530.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Sharpened Pitchfork</name>
+    <cost>(2)</cost>
+    <color>N/A</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/220642.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Springleaf Drum</name>
+    <cost>(1)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378534.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>11</low>
+        <median>53</median>
+        <high>150</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Sacred Armory</name>
+    <cost>(2)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383369.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Silverskin Armor</name>
+    <cost>(2)</cost>
+    <color>N/A</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Mirrodin Besieged</set>
+      <setID>MBS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/213738.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Armory of Iroas</name>
+    <cost>(2)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380372.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Chariot of Victory</name>
+    <cost>(3)</cost>
+    <color>N/A</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380384.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>19</median>
+        <high>95</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Prowler's Helm</name>
+    <cost>(2)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373626.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Juggernaut</name>
+    <cost>(4)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383289.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Butcher's Cleaver</name>
+    <cost>(3)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/220049.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Brass Squire</name>
+    <cost>(3)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Mirrodin Besieged</set>
+      <setID>MBS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/213800.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Peace Strider</name>
+    <cost>(4)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Mirrodin Besieged</set>
+      <setID>MBS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/213781.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Inquisitor's Flail</name>
+    <cost>(2)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/222196.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Viridian Claw</name>
+    <cost>(2)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Mirrodin Besieged</set>
+      <setID>MBS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/213784.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Demonmail Hauberk</name>
+    <cost>(4)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/227291.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Geistcatcher's Rig</name>
+    <cost>(6)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/234445.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Graveyard Shovel</name>
+    <cost>(2)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/221288.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Lumengrid Gargoyle</name>
+    <cost>(6)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Mirrodin Besieged</set>
+      <setID>MBS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/214059.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Desperate Stand</name>
+    <cost>(R)(W)</cost>
+    <color>Gold</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380398.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Brain Maggot</name>
+    <cost>(1)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380382.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>33</low>
+        <median>69</median>
+        <high>168</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Thassa's Ire</name>
+    <cost>(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380518.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Gnarled Scarhide</name>
+    <cost>(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380424.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>35</low>
+        <median>106</median>
+        <high>530</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Tethmos High Priest</name>
+    <cost>(2)(W)</cost>
+    <color>White</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380516.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>20</median>
+        <high>100</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Wildfire Cerberus</name>
+    <cost>(4)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380527.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Nyx-Fleece Ram</name>
+    <cost>(1)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380463.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>79</low>
+        <median>239</median>
+        <high>459</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Congregate</name>
+    <cost>(3)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383214.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Felhide Petrifier</name>
+    <cost>(2)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380413.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>21</median>
+        <high>105</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Kin-Tree Invocation</name>
+    <cost>(B)(G)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386583.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>20</median>
+        <high>100</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Set Adrift</name>
+    <cost>(5)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386661.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>14</median>
+        <high>70</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Gruul War Chant</name>
+    <cost>(2)(R)(G)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Dragon's Maze</set>
+      <setID>DGM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/368956.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Give</name>
+    <cost>(2)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Dragon's Maze</set>
+      <setID>DGM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/369097.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>20</median>
+        <high>100</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Rot Farm Skeleton</name>
+    <cost>(2)(B)(G)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Dragon's Maze</set>
+      <setID>DGM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/368986.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Sandsteppe Citadel</name>
+    <cost>N/A</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386649.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>25</low>
+        <median>61</median>
+        <high>168</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Banishing Light</name>
+    <cost>(2)(W)</cost>
+    <color>White</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380375.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>87</low>
+        <median>193</median>
+        <high>414</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Ritual of the Returned</name>
+    <cost>(3)(B)</cost>
+    <color>Black</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380487.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Paragon of Eternal Wilds</name>
+    <cost>(3)(G)</cost>
+    <color>Green</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383336.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>19</median>
+        <high>95</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Krenko's Enforcer</name>
+    <cost>(1)(R)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383294.jpg</image>
+      <rarity>common</rarity>
+      <prices>
+        <low>3</low>
+        <median>14</median>
+        <high>70</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Dissipate</name>
+    <cost>(1)(U)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383226.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>9</low>
+        <median>23</median>
+        <high>115</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Spiteful Blow</name>
+    <cost>(4)(B)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380506.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Hordeling Outburst</name>
+    <cost>(1)(R)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386560.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>7</low>
+        <median>34</median>
+        <high>170</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Pull from the Deep</name>
+    <cost>(2)(U)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380476.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Bassara Tower Archer</name>
+    <cost>(G)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380376.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>24</median>
+        <high>120</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Bellowing Saddlebrute</name>
+    <cost>(3)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386488.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Warden of the Eye</name>
+    <cost>(2)(U)(R)(W)</cost>
+    <color>Gold</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386716.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>13</median>
+        <high>65</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Kin-Tree Warden</name>
+    <cost>(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386584.jpg</image>
+      <rarity>common</rarity>
+      <prices>
+        <low>3</low>
+        <median>13</median>
+        <high>65</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Witness of the Ages</name>
+    <cost>(6)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386728.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Windstorm</name>
+    <cost>(X)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386724.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Mardu Blazebringer</name>
+    <cost>(2)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386592.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Highspire Mantis</name>
+    <cost>(2)(R)(W)</cost>
+    <color>Gold</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386556.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>14</median>
+        <high>70</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Monastery Swiftspear</name>
+    <cost>(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386608.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>50</low>
+        <median>186</median>
+        <high>341</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Spirespine</name>
+    <cost>(2)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380504.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Tuskguard Captain</name>
+    <cost>(2)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386708.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Consign to Dust</name>
+    <cost>(2)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380387.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Blinding Flare</name>
+    <cost>(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380380.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Mardu Roughrider</name>
+    <cost>(2)(R)(W)(B)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386597.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>14</median>
+        <high>70</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Temur Charm</name>
+    <cost>(G)(U)(R)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386695.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>19</low>
+        <median>46</median>
+        <high>159</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Abzan Battle Priest</name>
+    <cost>(3)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386466.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Rust Scarab</name>
+    <cost>(4)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Gatecrash</set>
+      <setID>GTC</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/366245.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Swarmborn Giant</name>
+    <cost>(2)(G)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380513.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Skullcrack</name>
+    <cost>(1)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Gatecrash</set>
+      <setID>GTC</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/366238.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>35</low>
+        <median>105</median>
+        <high>200</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Serene Remembrance</name>
+    <cost>(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Gatecrash</set>
+      <setID>GTC</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/366269.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Crystalline Nautilus</name>
+    <cost>(2)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380390.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>16</median>
+        <high>80</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Goldenhide Ox</name>
+    <cost>(5)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380428.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+</cards>

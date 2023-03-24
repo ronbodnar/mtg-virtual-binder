@@ -1,0 +1,581 @@
+/**
+ * The MIT License (MIT)
+ * 
+ * Copyright (c) 2014 Ron Bodnar <rbodnar93@gmail.com>
+
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ * */
+* {
+    margin: 0 auto;
+}
+
+body {
+    margin: 0 auto;
+    margin-top: 10px;
+    max-width: 1000px;
+}
+
+a {
+    color: rgba(34, 139, 34, 0.8);
+}
+
+a:hover,
+a:active {
+    opacity: 0.6;
+    color: rgba(34, 139, 34, 0.8);
+    text-decoration: none;
+}
+
+hr {
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+td input {
+    text-align: center;
+}
+
+#footer {
+    padding: 20px;
+    text-align: center;
+}
+
+#add-button {
+    margin-top: 2px;
+    padding-bottom: 4px;
+}
+
+.nav-tabs > li .close {
+    margin: -2px 0 0 10px;
+    font-size: 18px;
+}
+
+.nav-tabs {
+    border: none;
+}
+
+.nav-tabs > li > a {
+    color: rgba(34, 139, 34, 0.8); // #228B22 (Forest Green)
+    line-height: 1;
+}
+
+.nav-tabs > li > a:hover {
+    border-color: rgba(0, 0, 0, 0.7);
+    border-bottom-color: transparent;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    color: rgba(34, 139, 34, 0.8); // #228B22 (Forest Green)
+    cursor: default;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.7);
+    border-bottom-color: transparent;
+}
+
+.reference thead th {
+    color: rgb(200, 200, 200);
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.reference thead tr .header {
+    color: rgb(200, 200, 200);
+    outline-color: black;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-image: url('//cdn.mron.co/images/tablesorter/bg.png');
+    background-repeat: no-repeat;
+    background-position: center right;
+    cursor: pointer;
+}
+
+.reference thead tr .headerSortUp {
+    color: rgba(0, 0, 0, 0.8);
+    outline-color: black;
+    background-color: rgb(34, 139, 34); // #228B22 (Forest Green)
+    background-image: url('//cdn.mron.co/images/tablesorter/asc.png');
+}
+
+.reference thead tr .headerSortDown {
+    color: rgba(0, 0, 0, 0.8);
+    outline-color: black;
+    background-color: rgb(34, 139, 34); // #228B22 (Forest Green)
+    background-image: url('//cdn.mron.co/images/tablesorter/desc.png');
+}
+
+.reference {
+    width: 98.5%;
+    margin-top: 4px;
+    border-collapse: collapse;
+    margin-bottom: -10px;
+}
+.reference tr:nth-child(odd) {
+    background-color: #f1f1f1;
+}
+.reference tr:nth-child(even) {
+    background-color: #ffffff;
+}
+.reference th {
+    color: #ffffff;
+    background-color: #555555;
+    border: 1px solid #555555;
+    padding: 2px 7px;
+    text-align: left;
+}
+.reference th:not(:first-child) {
+    text-align: left;
+}
+.reference td:not(:first-child) {
+    text-align: center;
+}
+.reference th a:link,
+.reference th a:visited {
+    color: #ffffff;
+}
+.reference th a:hover,
+.reference th a:active {
+    color: #EE872A;
+}
+.reference td {
+    border: 1px solid #d4d4d4;
+    padding: 3px 7px;
+}
+
+.tab-container .panel-container {
+    background:#fff;
+    border:solid #666 1px;
+    -moz-border-radius:0 4px 4px 4px;
+    text-align:center;
+    -webkit-border-radius:0 4px 4px 4px;
+    padding:10px;
+}
+
+.tooltipster-default {
+    background:#4c4c4c;
+    border:2px solid #000;
+    border-radius:5px;
+    color:#c8c8c8;
+}
+
+.tooltipster-default .tooltipster-content {
+    font-family:Arial,sans-serif;
+    font-size:14px;
+    line-height:16px;
+    overflow:hidden;
+    padding:8px 10px;
+}
+
+.tooltipster-icon {
+    cursor:help;
+    margin-left:4px;
+}
+
+.tooltipster-base {
+    font-size:0;
+    left:0;
+    line-height:0;
+    overflow:visible;
+    pointer-events:none;
+    position:absolute;
+    top:0;
+    width:auto;
+    z-index:9999999;
+    padding:0;
+}
+
+.tooltipster-base .tooltipster-content {
+    overflow:hidden;
+}
+
+.tooltipster-arrow {
+    display:block;
+    height:100%;
+    left:0;
+    position:absolute;
+    text-align:center;
+    top:0;
+    width:100%;
+    z-index:-1;
+}
+
+.tooltipster-arrow span,.tooltipster-arrow-border {
+    display:block;
+    height:0;
+    position:absolute;
+    width:0;
+}
+
+.tooltipster-arrow-top span,.tooltipster-arrow-top-left span,.tooltipster-arrow-top-right span {
+    border-left:8px solid transparent!important;
+    border-right:8px solid transparent!important;
+    border-top:8px solid;
+    bottom:-7px;
+}
+
+.tooltipster-arrow-top .tooltipster-arrow-border,.tooltipster-arrow-top-left .tooltipster-arrow-border,.tooltipster-arrow-top-right .tooltipster-arrow-border {
+    border-left:9px solid transparent!important;
+    border-right:9px solid transparent!important;
+    border-top:9px solid;
+    bottom:-7px;
+}
+
+.tooltipster-arrow-bottom span,.tooltipster-arrow-bottom-left span,.tooltipster-arrow-bottom-right span {
+    border-bottom:8px solid;
+    border-left:8px solid transparent!important;
+    border-right:8px solid transparent!important;
+    top:-7px;
+}
+
+.tooltipster-arrow-bottom .tooltipster-arrow-border,.tooltipster-arrow-bottom-left .tooltipster-arrow-border,.tooltipster-arrow-bottom-right .tooltipster-arrow-border {
+    border-bottom:9px solid;
+    border-left:9px solid transparent!important;
+    border-right:9px solid transparent!important;
+    top:-7px;
+}
+
+.tooltipster-arrow-bottom .tooltipster-arrow-border,.tooltipster-arrow-bottom span,.tooltipster-arrow-top .tooltipster-arrow-border,.tooltipster-arrow-top span {
+    left:0;
+    right:0;
+    margin:0 auto;
+}
+
+.tooltipster-arrow-bottom-left span,.tooltipster-arrow-top-left span {
+    left:6px;
+}
+
+.tooltipster-arrow-bottom-left .tooltipster-arrow-border,.tooltipster-arrow-top-left .tooltipster-arrow-border {
+    left:5px;
+}
+
+.tooltipster-arrow-bottom-right span,.tooltipster-arrow-top-right span {
+    right:6px;
+}
+
+.tooltipster-arrow-bottom-right .tooltipster-arrow-border,.tooltipster-arrow-top-right .tooltipster-arrow-border {
+    right:5px;
+}
+
+.tooltipster-arrow-left .tooltipster-arrow-border,.tooltipster-arrow-left span {
+    border-bottom:8px solid transparent!important;
+    border-left:8px solid;
+    border-top:8px solid transparent!important;
+    margin-top:-7px;
+    right:-7px;
+    top:50%;
+}
+
+.tooltipster-arrow-left .tooltipster-arrow-border {
+    border-bottom:9px solid transparent!important;
+    border-left:9px solid;
+    border-top:9px solid transparent!important;
+    margin-top:-8px;
+}
+
+.tooltipster-arrow-right .tooltipster-arrow-border,.tooltipster-arrow-right span {
+    border-bottom:8px solid transparent!important;
+    border-right:8px solid;
+    border-top:8px solid transparent!important;
+    left:-7px;
+    margin-top:-7px;
+    top:50%;
+}
+
+.tooltipster-arrow-right .tooltipster-arrow-border {
+    border-bottom:9px solid transparent!important;
+    border-right:9px solid;
+    border-top:9px solid transparent!important;
+    margin-top:-8px;
+}
+
+.tooltipster-fade {
+    -moz-transition-property:opacity;
+    -ms-transition-property:opacity;
+    opacity:0;
+    -o-transition-property:opacity;
+    transition-property:opacity;
+    -webkit-transition-property:opacity;
+}
+
+.tooltipster-fade-show {
+    opacity:1;
+}
+
+.tooltipster-grow {
+    -moz-transform:scale(0,0);
+    -moz-transition-property:-moz-transition;
+    -ms-transform:scale(0,0);
+    -ms-transition-property:0;
+    -o-transform:scale(0,0);
+    -o-transition-property:-o-transition;
+    transform:scale(0,0);
+    transition-property:transform;
+    -webkit-backface-visibility:hidden;
+    -webkit-transform:scale(0,0);
+    -webkit-transition-property:0;
+}
+
+.tooltipster-grow-show {
+    -moz-transform:scale(1,1);
+    -moz-transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+    -ms-transform:scale(1,1);
+    -ms-transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+    -o-transform:scale(1,1);
+    -o-transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+    transform:scale(1,1);
+    transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+    -webkit-transform:scale(1,1);
+    -webkit-transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+}
+
+.tooltipster-swing {
+    -moz-transform:rotateZ(4deg);
+    -moz-transition-property:-moz-transition;
+    -ms-transform:rotateZ(4deg);
+    -ms-transition-property:0;
+    opacity:0;
+    -o-transform:rotateZ(4deg);
+    -o-transition-property:-o-transition;
+    transform:rotateZ(4deg);
+    transition-property:transform;
+    -webkit-transform:rotateZ(4deg);
+    -webkit-transition-property:0;
+}
+
+.tooltipster-swing-show {
+    -moz-transform:rotateZ(0deg);
+    -moz-transition-timing-function:cubic-bezier(0.23,.635,.495,2.4);
+    -ms-transform:rotateZ(0deg);
+    -ms-transition-timing-function:cubic-bezier(0.23,.635,.495,2.4);
+    opacity:1;
+    -o-transform:rotateZ(0deg);
+    -o-transition-timing-function:cubic-bezier(0.23,.635,.495,2.4);
+    transform:rotateZ(0deg);
+    transition-timing-function:cubic-bezier(0.23,.635,.495,2.4);
+    -webkit-transform:rotateZ(0deg);
+    -webkit-transition-timing-function:cubic-bezier(0.23,.635,.495,2.4);
+}
+
+.tooltipster-fall {
+    -moz-transition-property:top;
+    -moz-transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+    -ms-transition-property:top;
+    -ms-transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+    -o-transition-property:top;
+    -o-transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+    top:0;
+    transition-property:top;
+    transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+    -webkit-transition-property:top;
+    -webkit-transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+}
+
+.tooltipster-fall.tooltipster-dying {
+    -moz-transition-property:all;
+    -ms-transition-property:all;
+    opacity:0;
+    -o-transition-property:all;
+    top:0!important;
+    transition-property:all;
+    -webkit-transition-property:all;
+}
+
+.tooltipster-slide {
+    left:-40px;
+    -moz-transition-property:left;
+    -moz-transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+    -ms-transition-property:left;
+    -ms-transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+    -o-transition-property:left;
+    -o-transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+    transition-property:left;
+    transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+    -webkit-transition-property:left;
+    -webkit-transition-timing-function:cubic-bezier(0.175,.885,.32,1.15);
+}
+
+.tooltipster-slide.tooltipster-dying {
+    left:0!important;
+    -moz-transition-property:all;
+    -ms-transition-property:all;
+    opacity:0;
+    -o-transition-property:all;
+    transition-property:all;
+    -webkit-transition-property:all;
+}
+
+.tooltipster-content-changing {
+    -moz-transform:scale(1.1,1.1);
+    -ms-transform:scale(1.1,1.1);
+    opacity:.5;
+    -o-transform:scale(1.1,1.1);
+    transform:scale(1.1,1.1);
+    -webkit-transform:scale(1.1,1.1);
+}
+
+/*
+ * Devices:
+ *  - iPhone
+ *  - iPhone 3G
+ *  - iPhone 3GS
+ *  - iPhone 4
+ *  - iPhone 4S
+ *  - iPhone 5
+ *  - iPhone 5S
+ *  - iPhone 5C
+ *
+ *  - Nokia Lumia (All)
+ *
+ *  - Samsung Galaxy S
+ *  - Samsung Galaxy S2
+ */
+@media only screen and (max-width: 320px) {
+    .reference thead th,
+    .reference tbody td {
+        font-size: 10px;
+    }
+
+    .reference thead tr .header {
+        background-image: url('//cdn.mron.co/images/tablesorter/bg-mobile.png');
+    }
+
+    .reference thead tr .headerSortUp {
+        background-image: url('//cdn.mron.co/images/tablesorter/asc-mobile.png');
+    }
+
+    .reference thead tr .headerSortDown {
+        background-image: url('//cdn.mron.co/images/tablesorter/desc-mobile.png');
+    }
+}
+
+/*
+ * Devices:
+ *  - Samsung Galaxy S3
+ *  - Samsung Galaxy S4
+ *  - Samsung Galaxy Note 2
+ *  - Samsung Galaxy Note 3
+ */
+@media only screen and (max-width: 360px) {
+    .reference thead th,
+    .reference tbody td {
+        font-size: 10px;
+    }
+
+    .reference thead tr .header {
+        background-image: url('//cdn.mron.co/images/tablesorter/bg-mobile.png');
+    }
+
+    .reference thead tr .headerSortUp {
+        background-image: url('//cdn.mron.co/images/tablesorter/asc-mobile.png');
+    }
+
+    .reference thead tr .headerSortDown {
+        background-image: url('//cdn.mron.co/images/tablesorter/desc-mobile.png');
+    }
+}
+
+/*
+ * Devices:
+ *  - iPhone 6
+ */
+@media only screen and (device-width: 375px) {
+    .reference thead th,
+    .reference tbody td {
+        font-size: 10px;
+    }
+
+    .reference thead tr .header {
+        background-image: url('//cdn.mron.co/images/tablesorter/bg-mobile.png');
+    }
+
+    .reference thead tr .headerSortUp {
+        background-image: url('//cdn.mron.co/images/tablesorter/asc-mobile.png');
+    }
+
+    .reference thead tr .headerSortDown {
+        background-image: url('//cdn.mron.co/images/tablesorter/desc-mobile.png');
+    }
+}
+
+/*
+ * Devices:
+ *  - iPhone 6 Plus
+ */
+@media only screen and (max-width: 414px) {
+    .reference thead th,
+    .reference tbody td {
+        font-size: 10px;
+    }
+
+    .reference thead tr .header {
+        background-image: url('//cdn.mron.co/images/tablesorter/bg-mobile.png');
+    }
+
+    .reference thead tr .headerSortUp {
+        background-image: url('//cdn.mron.co/images/tablesorter/asc-mobile.png');
+    }
+
+    .reference thead tr .headerSortDown {
+        background-image: url('//cdn.mron.co/images/tablesorter/desc-mobile.png');
+    }
+}
+
+/*
+ * Devices:
+ *  - Nokia N9
+ */
+@media only screen and (max-width: 496px) {
+    .reference thead th,
+    .reference tbody td {
+        font-size: 10px;
+    }
+
+    .reference thead tr .header {
+        background-image: url('//cdn.mron.co/images/tablesorter/bg-mobile.png');
+    }
+
+    .reference thead tr .headerSortUp {
+        background-image: url('//cdn.mron.co/images/tablesorter/asc-mobile.png');
+    }
+
+    .reference thead tr .headerSortDown {
+        background-image: url('//cdn.mron.co/images/tablesorter/desc-mobile.png');
+    }
+}
+
+/*
+ * Devices:
+ *  - HTC Evo
+ */
+@media only screen and (mac-width: 540px) {
+    .reference thead th,
+    .reference tbody td {
+        font-size: 10px;
+    }
+
+    .reference thead tr .header {
+        background-image: url('//cdn.mron.co/images/tablesorter/bg-mobile.png');
+    }
+
+    .reference thead tr .headerSortUp {
+        background-image: url('//cdn.mron.co/images/tablesorter/asc-mobile.png');
+    }
+
+    .reference thead tr .headerSortDown {
+        background-image: url('//cdn.mron.co/images/tablesorter/desc-mobile.png');
+    }
+}

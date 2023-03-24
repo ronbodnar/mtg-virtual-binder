@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<cards>
+  <card>
+    <name>Ajani, Mentor of Heroes</name>
+    <cost>(3)(G)(W)</cost>
+    <color>Gold</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380367.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>1575</low>
+        <median>1876</median>
+        <high>2900</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Courser of Kruphix</name>
+    <cost>(1)(G)(G)</cost>
+    <color>Green</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378491.jpg</image>
+      <rarity>rare</rarity>
+      <prices>
+        <low>1000</low>
+        <median>1448</median>
+        <high>2999</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Glimpse the Unthinkable</name>
+    <cost>(U)(B)</cost>
+    <color>Gold</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Ravnica: City of Guilds</set>
+      <setID>RAV</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/83597.jpg</image>
+      <rarity>rare</rarity>
+      <prices>
+        <low>1874</low>
+        <median>2334</median>
+        <high>3088</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Snapcaster Mage</name>
+    <cost>(1)(U)</cost>
+    <color>Blue</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/227676.jpg</image>
+      <rarity>rare</rarity>
+      <prices>
+        <low>2552</low>
+        <median>3025</median>
+        <high>5695</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Steam Vents</name>
+    <cost>N/A</cost>
+    <color>N/A</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Return to Ravnica</set>
+      <setID>RTR</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/253682.jpg</image>
+      <rarity>rare</rarity>
+      <prices>
+        <low>800</low>
+        <median>1052</median>
+        <high>2689</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Sulfur Falls</name>
+    <cost>N/A</cost>
+    <color>N/A</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/241987.jpg</image>
+      <rarity>rare</rarity>
+      <prices>
+        <low>554</low>
+        <median>731</median>
+        <high>1199</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Remand</name>
+    <cost>(1)(U)</cost>
+    <color>Blue</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Duel Decks: Jace vs. Vraska</set>
+      <setID>DDM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380255.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>0</low>
+        <median>1081</median>
+        <high>0</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Fabricate</name>
+    <cost>(2)(U)</cost>
+    <color>Blue</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Magic 2010</set>
+      <setID>M10</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/189876.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>90</low>
+        <median>194</median>
+        <high>269</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Aurelia, the Warleader</name>
+    <cost>(2)(R)(R)(W)(W)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Gatecrash</set>
+      <setID>GTC</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/366448.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>275</low>
+        <median>415</median>
+        <high>1025</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Gisela, Blade of Goldnight</name>
+    <cost>(4)(R)(W)(W)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Avacyn Restored</set>
+      <setID>AVR</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/240034.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>758</low>
+        <median>1099</median>
+        <high>1849</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Iroas, God of Victory</name>
+    <cost>(2)(R)(W)</cost>
+    <color>Gold</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380441.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>449</low>
+        <median>585</median>
+        <high>1100</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Battlefield Forge</name>
+    <cost>N/A</cost>
+    <color>N/A</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383189.jpg</image>
+      <rarity>rare</rarity>
+      <prices>
+        <low>648</low>
+        <median>895</median>
+        <high>1042</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Temple of Triumph</name>
+    <cost>N/A</cost>
+    <color>N/A</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373560.jpg</image>
+      <rarity>rare</rarity>
+      <prices>
+        <low>250</low>
+        <median>464</median>
+        <high>820</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Boros Charm</name>
+    <cost>(R)(W)</cost>
+    <color>Gold</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Gatecrash</set>
+      <setID>GTC</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/366435.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>130</low>
+        <median>237</median>
+        <high>352</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Lightning Helix</name>
+    <cost>(R)(W)</cost>
+    <color>Gold</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Ravnica: City of Guilds</set>
+      <setID>RAV</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/87908.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>160</low>
+        <median>288</median>
+        <high>672</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Gift of Immortality</name>
+    <cost>(2)(W)</cost>
+    <color>White</color>
+    <quantity>3</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373566.jpg</image>
+      <rarity>rare</rarity>
+      <prices>
+        <low>21</low>
+        <median>47</median>
+        <high>199</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Yavimaya Coast</name>
+    <cost>N/A</cost>
+    <color>N/A</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383441.jpg</image>
+      <rarity>rare</rarity>
+      <prices>
+        <low>280</low>
+        <median>597</median>
+        <high>889</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Rattleclaw Mystic</name>
+    <cost>(1)(G)</cost>
+    <color>Green</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Media Inserts</set>
+      <setID>pMEI</setID>
+      <image>http://i.tcgplayer.com/93320.jpg</image>
+      <rarity>special</rarity>
+      <prices>
+        <low>39</low>
+        <median>607</median>
+        <high>200</high>
+      </prices>
+    </edition>
+  </card>
+</cards>

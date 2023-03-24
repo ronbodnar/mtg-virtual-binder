@@ -1,0 +1,367 @@
+/**
+ * The MIT License (MIT)
+ * 
+ * Copyright (c) 2014-2015 Ron Bodnar <rbodnar93@gmail.com>
+
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ * */
+* {
+    margin: 0 auto;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 1000px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+a {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+a:hover,
+a:active {
+    opacity: 0.6;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+hr {
+    border: 1px solid rgba(0, 0, 0, 0.7);
+}
+
+td input {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+input {
+    color: rgb(0, 0, 0);
+}
+
+.banner-top {
+    margin-bottom: 2px;
+}
+
+#container {
+    padding: 0px 5px;
+}
+
+#content-page {
+    margin: 10px 0px;
+    padding-bottom: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0px 0px 30px 5px rgba(0, 0, 0, 0.82);
+    -moz-box-shadow:    0px 0px 30px 5px rgba(0, 0, 0, 0.82);
+    box-shadow:         0px 0px 30px 5px rgba(0, 0, 0, 0.82);
+}
+
+#footer {
+    color: rgb(255, 255, 255);
+    padding-top: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 12px;
+}
+
+#add-button {
+    margin-top: 2px;
+    padding-bottom: 4px;
+}
+
+.tab-content {
+    padding: 10px;
+    border-top: 1px solid #000;
+}
+
+.nav-tabs > li .close {
+    margin: -2px 0 0 10px;
+    font-size: 18px;
+}
+
+.nav-tabs {
+    border: none;
+}
+
+.nav-tabs > li > a {
+    border: 2px solid rgba(0, 0, 0, 0.7);
+    border-bottom-color: transparent;
+    color: rgb(255, 255, 255); // #228B22 (Forest Green)
+    line-height: 1;
+}
+
+.nav-tabs > li > a#btnAddPage {
+    border: none;
+}
+
+.nav-tabs > li > a:hover {
+    color: rgb(0, 0, 0);
+    border-color: rgba(0, 0, 0, 0.7);
+    border-bottom-color: transparent;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    color: rgb(0, 0, 0); // #228B22 (Forest Green)
+    cursor: default;
+    background-color: rgba(255, 255, 255, 0.6);
+    border: 2px solid rgba(0, 0, 0, 1);
+    border-bottom: transparent;
+}
+
+.themed-table {
+    width: 98.5%;
+    margin-top: 4px;
+    margin-bottom: -10px;
+    color: rgba(0, 0, 0, 0.7);
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-collapse: separate;
+}
+
+.themed-table thead th {
+    color: rgb(200, 200, 200);
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.themed-table thead tr .header {
+    color: rgb(200, 200, 200);
+    outline: none;
+    background-color: rgba(0, 0, 0, 0.7);
+    background-image: url('//cdn.mron.co/images/tablesorter/bg.png');
+    background-repeat: no-repeat;
+    background-position: center right;
+    cursor: pointer;
+}
+
+.themed-table thead tr .headerSortUp {
+    color: rgba(0, 0, 0, 0.7);
+    outline: none;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-image: url('//cdn.mron.co/images/tablesorter/asc.png');
+}
+
+.themed-table thead tr .headerSortDown {
+    color: rgba(0, 0, 0, 0.7);
+    outline: none;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-image: url('//cdn.mron.co/images/tablesorter/desc.png');
+}
+
+.themed-table tr:nth-child(odd) {
+    background-color: rgba(241, 241, 241, 0.7);
+}
+
+.themed-table tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.themed-table th {
+    color: #ffffff;
+    background-color: #555555;
+    border: 1px solid transparent;
+    padding: 2px 7px;
+    text-align: left;
+}
+
+.themed-table th:not(:first-child) {
+    text-align: left;
+}
+
+.themed-table td:not(:first-child) {
+    text-align: center;
+}
+
+.themed-table th a:link,
+.themed-table th a:visited {
+    color: #ffffff;
+}
+
+.themed-table th a:hover,
+.themed-table th a:active {
+    color: #EE872A;
+}
+
+.themed-table td {
+    border: 1px solid transparent;
+    padding: 3px 7px;
+}
+
+.tab-container .panel-container {
+    background: #fff;
+    border: solid #666 1px;
+    -moz-border-radius: 0 4px 4px 4px;
+    text-align: center;
+    -webkit-border-radius: 0 4px 4px 4px;
+    padding: 10px;
+}
+
+/*
+ * Devices:
+ *  - iPhone
+ *  - iPhone 3G
+ *  - iPhone 3GS
+ *  - iPhone 4
+ *  - iPhone 4S
+ *  - iPhone 5
+ *  - iPhone 5S
+ *  - iPhone 5C
+ *
+ *  - Nokia Lumia (All)
+ *
+ *  - Samsung Galaxy S
+ *  - Samsung Galaxy S2
+ */
+@media only screen and (max-width: 320px) {
+    .themed-table thead th,
+    .themed-table tbody td {
+        font-size: 10px;
+    }
+
+    .themed-table thead tr .header {
+        background-image: url('//cdn.mron.co/images/tablesorter/bg-mobile.png');
+    }
+
+    .themed-table thead tr .headerSortUp {
+        background-image: url('//cdn.mron.co/images/tablesorter/asc-mobile.png');
+    }
+
+    .themed-table thead tr .headerSortDown {
+        background-image: url('//cdn.mron.co/images/tablesorter/desc-mobile.png');
+    }
+}
+
+/*
+ * Devices:
+ *  - Samsung Galaxy S3
+ *  - Samsung Galaxy S4
+ *  - Samsung Galaxy Note 2
+ *  - Samsung Galaxy Note 3
+ */
+@media only screen and (max-width: 360px) {
+    .themed-table thead th,
+    .themed-table tbody td {
+        font-size: 10px;
+    }
+
+    .themed-table thead tr .header {
+        background-image: url('//cdn.mron.co/images/tablesorter/bg-mobile.png');
+    }
+
+    .themed-table thead tr .headerSortUp {
+        background-image: url('//cdn.mron.co/images/tablesorter/asc-mobile.png');
+    }
+
+    .themed-table thead tr .headerSortDown {
+        background-image: url('//cdn.mron.co/images/tablesorter/desc-mobile.png');
+    }
+}
+
+/*
+ * Devices:
+ *  - iPhone 6
+ */
+@media only screen and (device-width: 375px) {
+    .themed-table thead th,
+    .themed-table tbody td {
+        font-size: 10px;
+    }
+
+    .themed-table thead tr .header {
+        background-image: url('//cdn.mron.co/images/tablesorter/bg-mobile.png');
+    }
+
+    .themed-table thead tr .headerSortUp {
+        background-image: url('//cdn.mron.co/images/tablesorter/asc-mobile.png');
+    }
+
+    .themed-table thead tr .headerSortDown {
+        background-image: url('//cdn.mron.co/images/tablesorter/desc-mobile.png');
+    }
+}
+
+/*
+ * Devices:
+ *  - iPhone 6 Plus
+ */
+@media only screen and (max-width: 414px) {
+    .themed-table thead th,
+    .themed-table tbody td {
+        font-size: 10px;
+    }
+
+    .themed-table thead tr .header {
+        background-image: url('//cdn.mron.co/images/tablesorter/bg-mobile.png');
+    }
+
+    .themed-table thead tr .headerSortUp {
+        background-image: url('//cdn.mron.co/images/tablesorter/asc-mobile.png');
+    }
+
+    .themed-table thead tr .headerSortDown {
+        background-image: url('//cdn.mron.co/images/tablesorter/desc-mobile.png');
+    }
+}
+
+/*
+ * Devices:
+ *  - Nokia N9
+ */
+@media only screen and (max-width: 496px) {
+    .themed-table thead th,
+    .themed-table tbody td {
+        font-size: 10px;
+    }
+
+    .themed-table thead tr .header {
+        background-image: url('//cdn.mron.co/images/tablesorter/bg-mobile.png');
+    }
+
+    .themed-table thead tr .headerSortUp {
+        background-image: url('//cdn.mron.co/images/tablesorter/asc-mobile.png');
+    }
+
+    .themed-table thead tr .headerSortDown {
+        background-image: url('//cdn.mron.co/images/tablesorter/desc-mobile.png');
+    }
+}
+
+/*
+ * Devices:
+ *  - HTC Evo
+ */
+@media only screen and (mac-width: 540px) {
+    .themed-table thead th,
+    .themed-table tbody td {
+        font-size: 10px;
+    }
+
+    .themed-table thead tr .header {
+        background-image: url('//cdn.mron.co/images/tablesorter/bg-mobile.png');
+    }
+
+    .themed-table thead tr .headerSortUp {
+        background-image: url('//cdn.mron.co/images/tablesorter/asc-mobile.png');
+    }
+
+    .themed-table thead tr .headerSortDown {
+        background-image: url('//cdn.mron.co/images/tablesorter/desc-mobile.png');
+    }
+}

@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<cards>
+  <card>
+    <name>Take Up Arms</name>
+    <cost>(4)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386691.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>4</low>
+        <median>15</median>
+        <high>75</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Stubborn Denial</name>
+    <cost>(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386673.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>10</low>
+        <median>33</median>
+        <high>165</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Sultai Charm</name>
+    <cost>(B)(G)(U)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386676.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>19</low>
+        <median>52</median>
+        <high>200</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Orzhov Guildgate</name>
+    <cost>N/A</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Dragon's Maze</set>
+      <setID>DGM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/369079.jpg</image>
+      <rarity>common</rarity>
+      <prices>
+        <low>5</low>
+        <median>20</median>
+        <high>100</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Tranquil Cove</name>
+    <cost>N/A</cost>
+    <color>N/A</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386703.jpg</image>
+      <rarity>common</rarity>
+      <prices>
+        <low>4</low>
+        <median>18</median>
+        <high>90</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Karametra's Acolyte</name>
+    <cost>(3)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373538.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>5</low>
+        <median>17</median>
+        <high>85</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Flurry of Horns</name>
+    <cost>(4)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380416.jpg</image>
+      <rarity>common</rarity>
+      <prices>
+        <low>3</low>
+        <median>13</median>
+        <high>65</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Jeskai Student</name>
+    <cost>(1)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386575.jpg</image>
+      <rarity>common</rarity>
+      <prices>
+        <low>3</low>
+        <median>12</median>
+        <high>60</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Jeskai Ascendancy</name>
+    <cost>(U)(R)(W)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386571.jpg</image>
+      <rarity>rare</rarity>
+      <prices>
+        <low>149</low>
+        <median>394</median>
+        <high>1000</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Seek the Horizon</name>
+    <cost>(3)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386659.jpg</image>
+      <rarity>uncommon</rarity>
+      <prices>
+        <low>3</low>
+        <median>14</median>
+        <high>70</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Nyx Infusion</name>
+    <cost>(2)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Journey into Nyx</set>
+      <setID>JOU</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/380461.jpg</image>
+      <rarity>common</rarity>
+      <prices>
+        <low>3</low>
+        <median>13</median>
+        <high>65</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Shambleshark</name>
+    <cost>(G)(U)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Gatecrash</set>
+      <setID>GTC</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/366478.jpg</image>
+      <rarity>common</rarity>
+      <prices>
+        <low>2</low>
+        <median>12</median>
+        <high>60</high>
+      </prices>
+    </edition>
+  </card>
+</cards>

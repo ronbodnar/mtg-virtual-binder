@@ -1,0 +1,428 @@
+<?xml version="1.0"?>
+<cards>
+  <card>
+    <name>Elspeth Tirel</name>
+    <cost>(3)(W)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Scars of Mirrodin</set>
+      <setID>SOM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/212241.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>855</low>
+        <median>1102</median>
+        <high>1899</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Garruk, Primal Hunter</name>
+    <cost>(2)(G)(G)(G)</cost>
+    <color>Green</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Magic 2013</set>
+      <setID>M13</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/253669.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>400</low>
+        <median>636</median>
+        <high>1080</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Sarkhan the Mad</name>
+    <cost>(3)(B)(R)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Rise of the Eldrazi</set>
+      <setID>ROE</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/193659.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>517</low>
+        <median>772</median>
+        <high>1412</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Vraska the Unseen</name>
+    <cost>(3)(B)(G)</cost>
+    <color>Gold</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Return to Ravnica</set>
+      <setID>RTR</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/290538.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>200</low>
+        <median>331</median>
+        <high>799</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Deathpact Angel</name>
+    <cost>(3)(W)(B)(B)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Gatecrash</set>
+      <setID>GTC</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/366278.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>49</low>
+        <median>93</median>
+        <high>299</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Havengul Lich</name>
+    <cost>(3)(U)(B)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Dark Ascension</set>
+      <setID>DKA</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/262852.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>85</low>
+        <median>200</median>
+        <high>350</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Trostani, Selesnya's Voice</name>
+    <cost>(G)(G)(W)(W)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Return to Ravnica</set>
+      <setID>RTR</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/253641.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>117</low>
+        <median>213</median>
+        <high>1000</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Narset, Enlightened Master</name>
+    <cost>(3)(U)(R)(W)</cost>
+    <color>Gold</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386616.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>165</low>
+        <median>313</median>
+        <high>600</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>The Chain Veil</name>
+    <cost>(4)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383412.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>42</low>
+        <median>136</median>
+        <high>599</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Surrak Dragonclaw</name>
+    <cost>(2)(G)(U)(R)</cost>
+    <color>Gold</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386681.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>222</low>
+        <median>382</median>
+        <high>1155</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Helvault</name>
+    <cost>(3)</cost>
+    <color>N/A</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Dark Ascension</set>
+      <setID>DKA</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/262679.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>40</low>
+        <median>65</median>
+        <high>200</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Geth, Lord of the Vault</name>
+    <cost>(4)(B)(B)</cost>
+    <color>Black</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Scars of Mirrodin</set>
+      <setID>SOM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/215076.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>300</low>
+        <median>433</median>
+        <high>799</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Grave Titan</name>
+    <cost>(4)(B)(B)</cost>
+    <color>Black</color>
+    <quantity>4</quantity>
+    <edition>
+      <set>Magic 2012</set>
+      <setID>M12</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/241830.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>525</low>
+        <median>712</median>
+        <high>1299</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Frost Titan</name>
+    <cost>(4)(U)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2012</set>
+      <setID>M12</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/235191.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>72</low>
+        <median>121</median>
+        <high>299</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Soul of Ravnica</name>
+    <cost>(4)(U)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383389.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>50</low>
+        <median>97</median>
+        <high>315</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Time Reversal</name>
+    <cost>(3)(U)(U)</cost>
+    <color>Blue</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2012</set>
+      <setID>M12</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/245187.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>40</low>
+        <median>80</median>
+        <high>200</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Soul of Zendikar</name>
+    <cost>(4)(G)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Magic 2015 Core Set</set>
+      <setID>M15</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/383392.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>50</low>
+        <median>99</median>
+        <high>300</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>See the Unwritten</name>
+    <cost>(4)(G)(G)</cost>
+    <color>Green</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Khans of Tarkir</set>
+      <setID>KTK</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/386658.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>295</low>
+        <median>470</median>
+        <high>899</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Hellkite Tyrant</name>
+    <cost>(4)(R)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Gatecrash</set>
+      <setID>GTC</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/366244.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>75</low>
+        <median>122</median>
+        <high>299</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Past in Flames</name>
+    <cost>(3)(R)</cost>
+    <color>Red</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Innistrad</set>
+      <setID>ISD</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/245197.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>249</low>
+        <median>386</median>
+        <high>899</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Brimaz, King of Oreskos</name>
+    <cost>(1)(W)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Born of the Gods</set>
+      <setID>BNG</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/378377.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>2647</low>
+        <median>3205</median>
+        <high>3899</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Heliod, God of the Sun</name>
+    <cost>(3)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Theros</set>
+      <setID>THS</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/373524.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>150</low>
+        <median>304</median>
+        <high>999</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Indomitable Archangel</name>
+    <cost>(2)(W)(W)</cost>
+    <color>White</color>
+    <quantity>1</quantity>
+    <edition>
+      <set>Scars of Mirrodin</set>
+      <setID>SOM</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/212248.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>125</low>
+        <median>174</median>
+        <high>279</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Sun Titan</name>
+    <cost>(4)(W)(W)</cost>
+    <color>White</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Magic 2011</set>
+      <setID>M11</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/205030.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>199</low>
+        <median>316</median>
+        <high>458</high>
+      </prices>
+    </edition>
+  </card>
+  <card>
+    <name>Sun Titan</name>
+    <cost>(4)(W)(W)</cost>
+    <color>White</color>
+    <quantity>2</quantity>
+    <edition>
+      <set>Magic 2012</set>
+      <setID>M12</setID>
+      <image>https://image.deckbrew.com/mtg/multiverseid/241833.jpg</image>
+      <rarity>mythic</rarity>
+      <prices>
+        <low>200</low>
+        <median>309</median>
+        <high>499</high>
+      </prices>
+    </edition>
+  </card>
+</cards>
